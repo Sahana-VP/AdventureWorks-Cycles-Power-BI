@@ -23,3 +23,6 @@ This project is a Power BI report built using the Adventure Works Cycles dataset
 
 ## Dataset
 Adventure Works Cycles dataset by Maven Analytics – used for educational and portfolio purposes.
+
+## Contact
+For feedback or suggestions, connect on [LinkedIn](https://www.linkedin.com/in/sahana-v-p-303630193/) or GitHub!
